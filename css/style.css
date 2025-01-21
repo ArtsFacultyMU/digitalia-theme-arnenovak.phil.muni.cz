@@ -1,3 +1,7 @@
 div.block-simple-blockfront-page-jumbotron > div.content > p {
   color: black;
 }
+
+#views-exposed-form-search-content-page-1 fieldset {
+  width: 100%;
+}
