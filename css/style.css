@@ -2,6 +2,25 @@ div.block-simple-blockfront-page-jumbotron > div.content > p {
   color: black;
 }
 
-#views-exposed-form-search-content-page-1 fieldset {
+#views-exposed-form-search-content-page fieldset {
   width: 100%;
 }
+
+article.media--view-mode-open-seadragon > div.field--name-field-media-image {
+  float: none;
+}
+
+ul.pager-item-list {
+  margin: auto;
+}
+
+ul.pager-item-list > li, 
+ul.pager-item-list > li > div, 
+ul.pager-item-list > li > div > div {
+  display: inline;
+}
+
+div.pager-item2 {
+  text-align: center;
+}
+
