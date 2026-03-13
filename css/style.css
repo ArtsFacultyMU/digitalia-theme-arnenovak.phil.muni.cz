@@ -24,3 +24,7 @@ div.pager-item2 {
   text-align: center;
 }
 
+div.view-book-pages-grid,
+div.view-part-pages-grid {
+  margin-top: 1rem;
+}
